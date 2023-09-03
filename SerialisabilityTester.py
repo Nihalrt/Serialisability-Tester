@@ -1,4 +1,7 @@
+
+# Project goal: understanding of back-end engineering
 # Methods for checking whether an execution schedule is serialisable.
+
 
 from Schedule import *
 
